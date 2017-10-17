@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/command-mode/command-mode.iml" filepath="$PROJECT_DIR$/command-mode/command-mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-pattern-module.iml" filepath="$PROJECT_DIR$/design-pattern-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-factory-mode/simple-factory-mode.iml" filepath="$PROJECT_DIR$/simple-factory-mode/simple-factory-mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy-mode/strategy-mode.iml" filepath="$PROJECT_DIR$/strategy-mode/strategy-mode.iml" />
     </modules>
   </component>

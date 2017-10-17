@@ -7,13 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="command-mode" />
+        <module name="simple-factory-mode" />
         <module name="strategy-mode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="command-mode" target="1.8" />
-      <module name="design-pattern-module" target="1.5" />
-      <module name="strategy-mode" target="1.5" />
+      <module name="design-pattern-module" target="1.8" />
+      <module name="simple-factory-mode" target="1.8" />
+      <module name="strategy-mode" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
