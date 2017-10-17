@@ -213,7 +213,7 @@ public class Client {
 麻雀虽小，五脏俱全，例子很简单，但是最后的成果是`面向对象语言+函数式语言+枚举`的结合，可以看到这种组合效果是十分棒的，代码不仅简洁易用性高同时还保持了健壮性与可扩展性，希望大家可以多尝试，我认为多种语言范式的组合的语言可能是第三代语言或者更新的语言发展的趋势吧(Scala，C#等)^_^，大家下篇再见。
 
 # 关于本文代码
-本文的代码与md文章同步更新在github中的[simple-factory-mode](https://github.com/xhyrzldf/design-patterns/blob/master/strategy-mode/strategy-mode.md)模块下,欢迎fork :)
+本文的代码与md文章同步更新在github中的[simple-factory-mode](https://github.com/xhyrzldf/design-patterns/blob/master/simple-factory-mode/simple-factory-mode.md)模块下,欢迎fork :)
 
 
 

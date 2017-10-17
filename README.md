@@ -15,3 +15,4 @@
 ## 目录
 - [命令模式以及使用lambda优化](https://github.com/xhyrzldf/design-patterns/blob/master/command-mode/command-mode.md)
 - [策略模式以及使用lambda优化](https://github.com/xhyrzldf/design-patterns/blob/master/strategy-mode/strategy-mode.md)
+- [简单工厂模式以及使用lambda优化](https://github.com/xhyrzldf/design-patterns/blob/master/simple-factory-mode/simple-factory-mode.md)
