@@ -199,7 +199,7 @@ Process finished with exit code 0
 ## 总结与思考
 ### 总结
 上面的例子应该并不难理解,这里列出命令模式的uml图<来源于《head first》>
-![command-mode-uml](resoucres/images/command-mode.jpg)
+![command-mode-uml](src/resoucres/images/command-mode.jpg)
 命令模式涉及到五个角色，它们分别是：
 
 - 客户端(Client)角色：具体执行程序的地方,创建一个具体命令(ConcreteCommand)对象并确定其接收者。
