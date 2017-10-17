@@ -1,11 +1,12 @@
-package com.matrix;
+package com.tradition;
 
-import com.matrix.domain.Kitchen;
-import com.matrix.domain.Waiter;
-import com.matrix.repository.BaseCommand;
-import com.matrix.repository.EggsWithTomatoesCommand;
-import com.matrix.repository.beefRiceCommand;
-import com.matrix.repository.beerDuckCommand;
+
+import com.tradition.domain.Kitchen;
+import com.tradition.domain.Waiter;
+import com.tradition.repository.BaseCommand;
+import com.tradition.repository.EggsWithTomatoesCommand;
+import com.tradition.repository.beefRiceCommand;
+import com.tradition.repository.beerDuckCommand;
 
 /**
  * <p>Description : lambdaTest1

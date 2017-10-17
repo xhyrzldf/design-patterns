@@ -1,4 +1,4 @@
-package com.matrix;
+package com.tradition;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

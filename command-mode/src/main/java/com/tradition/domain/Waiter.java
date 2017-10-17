@@ -1,7 +1,8 @@
-package com.matrix.domain;
+package com.tradition.domain;
 
-import com.matrix.repository.BaseCommand;
-import com.matrix.repository.EggsWithTomatoesCommand;
+
+import com.tradition.repository.BaseCommand;
+import com.tradition.repository.EggsWithTomatoesCommand;
 
 import java.time.LocalDateTime;
 import java.util.ArrayDeque;

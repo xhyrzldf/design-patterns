@@ -1,6 +1,7 @@
-package com.matrix.repository;
+package com.tradition.repository;
 
-import com.matrix.domain.Kitchen;
+
+import com.tradition.domain.Kitchen;
 
 /**
  * <p>Description : lambdaTest1

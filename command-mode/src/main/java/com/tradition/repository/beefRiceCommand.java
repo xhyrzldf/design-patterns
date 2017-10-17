@@ -1,20 +1,21 @@
-package com.matrix.repository;
+package com.tradition.repository;
 
-import com.matrix.domain.Kitchen;
+
+import com.tradition.domain.Kitchen;
 
 /**
  * <p>Description : lambdaTest1
  * <p>Date : 2017/10/16 0:27
  * <p>@author : Matrix [xhyrzldf@foxmail.com]
  */
-public class beerDuckCommand extends BaseCommand {
+public class beefRiceCommand extends BaseCommand {
 
-    public beerDuckCommand(Kitchen kitchen) {
+    public beefRiceCommand(Kitchen kitchen) {
         super(kitchen);
     }
 
     @Override
     public void executeCommand() {
-       kitchen.beerDuck();
+       kitchen.beefRice();
     }
 }

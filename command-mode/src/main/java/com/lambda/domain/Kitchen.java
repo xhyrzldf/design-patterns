@@ -1,4 +1,4 @@
-package com.matrix.domain;
+package com.lambda.domain;
 
 /**
  * <p>Description : lambdaTest1
