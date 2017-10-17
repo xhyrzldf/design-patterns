@@ -164,6 +164,7 @@ public class Client {
 ### 总结
 为了方便理解与代码精简,这里只做了一个简单的加减乘的算法封装,目的是为了让大家理解策略模式的封装算法行为,通过Context与客户端,与简单工厂的不同的是,耦合度更低,并且可以通过结合简单工厂模式的特点之一,将判断逻辑转移到Context中,下面是uml图
 
+![strategy-mode](src/resources/images/strategy-mode.jpg)
 这个模式涉及到三个角色：
 -上下文环境(Context)角色：持有一个Strategy的引用,负责与客户端进行交互
 -抽象策略(Strategy)角色：这是一个抽象角色，通常由一个接口或抽象类实现。此角色给出所有的具体策略类所需的接口。在上文中即是Strategy类。
