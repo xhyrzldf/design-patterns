@@ -10,7 +10,7 @@
         - Client.java 客户端,程序的入口
     - test 测试文件
     - resources 资源文件
-- command-mode.md 命令模式的介绍
+- command-mode.md 命令模式的代码使用介绍,与博客同步
 
 ## 目录
 - [命令模式以及使用lambda优化](https://github.com/xhyrzldf/design-patterns/blob/master/command-mode/command-mode.md)
