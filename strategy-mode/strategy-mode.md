@@ -294,5 +294,5 @@ Process finished with exit code 0
 上文的例子为了方便理解举的例子十分简单,但是包含的思想确是一致的,在实际运用中,你所需要的封装内容不一定是算法,可以是业务逻辑,可以是一段处理过程,只要观察代码中是否出现的大量的swich或者if用来判断从而选择结构相同但是内容不同的一段代码时,就该考虑使用上面讲述的 策略模式+lambda+枚举的方式,相信代码的质量可以提高不少。
 
 # 关于本文代码
-本文的代码与md文章同步更新在github中的[strategy-mode](#)模块下
+本文的代码与md文章同步更新在github中的[strategy-mode](https://github.com/xhyrzldf/design-patterns/blob/master/strategy-mode/strategy-mode.md)模块下
 
