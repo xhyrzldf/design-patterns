@@ -32,6 +32,5 @@ public class Client {
         System.out.println("==========服务员将订单送至厨房,厨房按照订单顺序开始做饭=========");
         //服务员通知厨房按照订单顺序开始做
         waiter.notifyKitchen(kitchen);
-
     }
 }
