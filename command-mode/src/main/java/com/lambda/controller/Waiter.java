@@ -1,7 +1,6 @@
 package com.lambda.controller;
 
 import com.lambda.domain.Kitchen;
-import com.lambda.domain.Kitchen;
 
 import java.time.LocalDateTime;
 import java.util.ArrayDeque;
@@ -27,9 +26,10 @@ public class Waiter {
      * 添加订单
      * @param kitchenAction 厨房的具体行为
      */
-    public final void setOrders(Consumer<Kitchen> kitchenAction) {
+    public final Waiter setOrders(Consumer<Kitchen> kitchenAction) {
         System.out.printf("添加订单成功! 订单时间: %s \n", LocalDateTime.now());
         orders.add(kitchenAction);
+        return this;
     }
 
     /**
@@ -42,4 +42,7 @@ public class Waiter {
             orders.remove();
         }
     }
+
 }
+
+
